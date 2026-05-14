@@ -37,17 +37,6 @@ This analysis focuses on two factors—seller performance and geolocation—usin
 
 <img width="1666" height="577" alt="Sellers dashboard" src="https://github.com/user-attachments/assets/2d8162bb-0746-411f-9af9-b251f753a101" /> 
 
-**Recommendations**  
-
-- **Prioritize delivery reliability over approval speed**  
-  Focus operational improvements on delivery performance rather than approval speed, as delivery timing shows a stronger association with customer reviews.
-
-- **Set seller performance benchmarks using delivery timing**  
-  Use delivery delay relative to the estimated delivery date as a benchmark metric for seller performance, rather than raw delivery speed alone.
-
-- **Account for regional delivery constraints**  
-  Incorporate regional context when evaluating seller performance, as geographic constraints may impact delivery timing and customer expectations.
-
 **Limitations**  
 
 From the findings, it is important to recognize that there are many sellers with smaller sample sizes, customer reviews are subjective, and there are many factors to consider. So, the answers aren't inherently fixed and can be answered in many ways.
